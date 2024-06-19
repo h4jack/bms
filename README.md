@@ -1,11 +1,11 @@
 <h1 align="center">
   <br>
-  BMS v1.0.0b
+  BMS (Message Bombing Service) v1.0.0
   <br>
 </h1>
 
 
-<p align="center">A free and open-source SMS bombing application</p>
+<p align="center">A free and open-source SMS bombing application.</p>
 
 ## NOTES:
 
